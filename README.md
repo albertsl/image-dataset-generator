@@ -1,15 +1,14 @@
-# image-dataset-generator
-Algorithmically generated image dataset
+# Algorithmically generated image dataset
 
 In this repository is the code used in the article "Algorithmically Generated Image Dataset". <Add article url> Feel free to modify and play with the code and the images as much as you like.
 
 Description of the project files:
-- backgrounds: folder containing background images
-- characters: folder containing character images
-- generated: folder where generated images are saved
-- objects: folder containing object images
-- data.csv: example of a generated dataset containing the characteristics of each generated image.
-- main.py: project code
+- *backgrounds*: folder containing background images
+- *characters*: folder containing character images
+- *generated*: folder where generated images are saved
+- *objects*: folder containing object images
+- *data.csv*: example of a generated dataset containing the characteristics of each generated image.
+- *main.py*: project code
 
 
 All images used in this repository are not mine, their original sources are:
