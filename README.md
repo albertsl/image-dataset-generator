@@ -1,6 +1,6 @@
 # Algorithmically generated image dataset
 
-In this repository is the code used in the article "Algorithmically Generated Image Dataset". <Add article url> Feel free to modify and play with the code and the images as much as you like.
+In this repository is the code used in the article ["Algorithmically Generated Image Dataset".](https://towardsdatascience.com/algorithmically-generated-image-dataset-71aee957563a) Feel free to modify and play with the code and the images as much as you like.
 
 Description of the project files:
 - *backgrounds*: folder containing background images
